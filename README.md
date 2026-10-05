@@ -1,0 +1,2 @@
+# premium-ribbon-mic-001-ribbon-mic-building-motor-as
+Tired of scatterbrained builds where you lose track of ribbon foil tension or motor alignment?  The Ribbon Mic Building &amp; Motor Assemble Craft Hub brings every detail of your mic build into one structured Notion workspace. No more messy notes or forgotten specs – track components, assembly steps, and motor tolerances from a single dashboard, saving
